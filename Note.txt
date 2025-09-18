@@ -3,3 +3,4 @@ Hello A from note by B
 =======
 Hellosnjncs
 >>>>>>> 9fdf91a78d4f67078235e21ec436fa2bbc176fd6
+My name is feature 1
